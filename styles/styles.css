@@ -1,5 +1,6 @@
 *{
-    
+    margin: 0;
+    padding: 0;
 }
 body{
     font-family: 'Courier New', Courier, monospace;
@@ -11,16 +12,17 @@ body{
     display: inline-flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #4a6457;
+    background-color: rgb(170, 139, 94);
 }
 
 #cont-img img{
-    width: 150px;
-    
+    width: 200px;
+    margin: 5px 5px;
 }
 
 #cont-cent{
     justify-content: center;
+    
 }
 
 #cont-buscar{
