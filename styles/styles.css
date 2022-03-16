@@ -8,7 +8,7 @@ body{
     font-size: larger;
 }
 
-#Cabecera{
+.Cabecera{
     width: 100%;
     display: inline-flex;
     justify-content: space-between;
@@ -33,8 +33,8 @@ body{
     
 }
 
-#cont-tit{
-    margin: auto;
+#cont-tit h1{
+    font-size: 60px;
 }
 
 #cont-buscar{
