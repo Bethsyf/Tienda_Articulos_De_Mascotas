@@ -1,6 +1,7 @@
 *{
     margin: 0;
     padding: 0;
+    border: 1px solid;
 }
 body{
     font-family: 'Courier New', Courier, monospace;
@@ -19,15 +20,27 @@ body{
     width: 200px;
     margin: 5px 5px;
 }
+#lupa{
+    width: 20px;
+}
 
+#carrito{
+    width: 80px;
+    margin: 10px;
+}
 #cont-cent{
-    justify-content: center;
+    color: white;
     
+}
+
+#cont-tit{
+    margin: auto;
 }
 
 #cont-buscar{
     display: flex;
     justify-content: center;
+    margin: 20px;
 }
 
 #cont-buscar input{
@@ -35,16 +48,40 @@ body{
     border: none;
 }
 
-#tit-cab{
-    color: white;
 
-}
 
 #navbar{
-   margin: auto;
    width: 100%;
+   justify-content: space-around;
 }
 
 #menu{
     display: inline-flex;
+}
+
+#img-bienv{
+    width: 100%;
+}
+
+footer{
+    display: flex;
+    background-color: wheat;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+#cont-categ{
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.tarjetas h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.tarjetas img{
+    width: 200px;
 }
