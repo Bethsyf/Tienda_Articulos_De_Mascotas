@@ -2,4 +2,4 @@
 
 Desarrollar un aplicativo que permita la comercialización de artículos para mascotas
 
-![logo](logo-pets.png)
+![logo-pets](https://user-images.githubusercontent.com/84050237/157454708-194a77e8-484b-4168-b773-95f6b39563c2.png)
