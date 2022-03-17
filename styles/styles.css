@@ -137,3 +137,11 @@ footer{
 #fon-btn{
     background-color: #3db5f4;
 }
+
+#cont-img-gal{
+    padding: 40px;
+}
+
+#cont-img-gal img{
+    width: 300px;
+}
