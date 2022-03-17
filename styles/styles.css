@@ -6,6 +6,7 @@
 body{
     font-family: 'Courier New', Courier, monospace;
     font-size: larger;
+    height:100%
 }
 
 #Cabecera{
@@ -51,8 +52,9 @@ body{
 
 
 #navbar{
-   width: 100%;
-   justify-content: space-around;
+    width: 100%;
+    
+       
 }
 
 #menu{
@@ -60,15 +62,37 @@ body{
     
 }
 
+#menu li{
+    list-style: none;
+}
+
+#menu a{
+    color: rgb(134, 91, 72);
+    text-decoration: none;
+    padding: 0px 20px;
+    font-weight: bold;
+}
+
+#menu a:hover{
+    background: rgba(58, 3, 24, 0.329);    
+}
+
+
 #img-bienv{
     width: 100%;
 }
 
 footer{
-    display: flex;
-    background-color: wheat;
-    justify-content: center;
-    align-items: flex-end;
+    font-weight: bold;
+    background-color: wheat;  
+    
+}
+
+#cont-footer{
+    padding: 20px;
+    text-shadow: 0 0 0.2em rgb(223, 80, 45), 
+                0 0 0.2em rgb(223, 80, 45),
+		        0 0 0.2em rgb(223, 80, 45)
 }
 
 #cont-categ{
@@ -85,4 +109,23 @@ footer{
 
 .tarjetas img{
     width: 200px;
+}
+
+#cont-redes{
+    margin-left: 70%;
+}
+
+#redes img{
+    width: 40px;
+}
+
+#contac{
+    margin-left: 43%;
+}
+
+#by{
+    display: flex;
+    justify-content: center;
+    color: white; 
+    text-shadow: black 0.1em 0.1em 0.2em;
 }
