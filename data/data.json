@@ -108,5 +108,78 @@
             "category": "dog",
             "description": "Es un alimento delicioso compuesto de ingredientes como Salmón y cordero. Este alimento es altamente balanceado, de calidad y libre de granos."
         },
+        {
+            "id": 13,
+            "name": "Comedero sencillo Capacidad 24oz",
+            "marca": "Doggy",
+            "price": 20900,
+            "image": "https://petlandscol.com/wp-content/uploads/2021/01/Diseno-sin-titulo-2021-01-13T105445.110-300x300.png",
+            "category": "dog",
+            "description": "Comedero sencillo antideslizante con grabados 24oz color rojo"
+        },
+        {
+            "id": 14,
+            "name": "Comedero sencillo Capacidad 1.0qt",
+            "marca": "Doggy",
+            "price": 15500,
+            "image": "https://petlandscol.com/wp-content/uploads/2021/01/Diseno-sin-titulo-2021-01-13T105016.936-300x300.png",
+            "category": "dog",
+            "description": "Comedero sencillo antideslizante con grabados en las paredes. Capacidad 1.0qt"
+        },
+        {
+            "id": 15,
+            "name": "Kong Perro Hueso de Caucho Classic",
+            "marca": "KONG",
+            "price": 50500,
+            "image": "https://petlandscol.com/wp-content/uploads/2020/12/Diseno-sin-titulo-2020-12-12T174925.183-300x300.png",
+            "category": "dog",
+            "description": "El KONG Goodie Bone™ es ideal para aquellos perros que se divierten masticando juguetes. Fabricado con la fórmula exclusiva de caucho rojo completamente natural KONG Classic, este hueso incluye los Goodie Grippers™ patentados que convierten a este juguete entretenido en todo un desafío que deleitará a su perro con los bocados que lleva en su interior, ya que puede rellenarse con las croquetas favoritas de su mascota. Barrita resistente y segura que satisface los instintos naturales de masticación Dinámicos Denta-Ridges"
+        },
+        {
+            "id": 16,
+            "name": "Pelota Perro x3",
+            "marca": "KONG",
+            "price": 20400,
+            "image": "https://petlandscol.com/wp-content/uploads/2020/12/Diseno-sin-titulo-2020-12-12T181413.624-300x300.png",
+            "category": "dog",
+            "description": "Pelota perro sports balls kong large x 3 para perro, duro, marca kong. Estos juguetes, hechos con paredes de caucho muy gruesas, son lo suficientemente resistentes como para aguantar juegos intensos de buscar y recoger. Lánzalas y mira cómo tu perro se vuelve loco con estas resistentes pelotas saltarinas"
+        },
+        {
+            "id": 17,
+            "name": "Pelota Perro x2",
+            "marca": "KONG",
+            "price": 18400,
+            "image": "https://petlandscol.com/wp-content/uploads/2020/12/Diseno-sin-titulo-2020-12-12T181651.682.png",
+            "category": "dog",
+            "description": "Pelota perro sports balls kong large x 2 para perro, duro, marca kong. Estos juguetes, hechos con paredes de caucho muy gruesas, son lo suficientemente resistentes como para aguantar juegos intensos de buscar y recoger. Lánzalas y mira cómo tu perro se vuelve loco con estas resistentes pelotas saltarinas"
+        },
+        {
+            "id": 18,
+            "name": "Correa Reflectiva color rojo",
+            "marca": "TRADO",
+            "price": 37000,
+            "image": "https://petlandscol.com/wp-content/uploads/2021/01/Diseno-sin-titulo-2021-01-13T112831.119-300x300.png",
+            "category": "dog",
+            "description": "Correa Reflectiva hecha en Neopreno Azul que brinda a tu perro la comodidad que necesita. Hecha con materiales de alta calidad como el Nylon, neopreno y el poliester. Trailla Classic Series Rojo S 1.3X152CM"
+        },
+        {
+            "id": 19,
+            "name": "Correa Reflectiva color negro",
+            "marca": "TRADO",
+            "price": 33800,
+            "image": "https://petlandscol.com/wp-content/uploads/2021/01/Diseno-sin-titulo-2021-01-13T111002.018-300x300.png",
+            "category": "dog",
+            "description": "Correa Reflectiva hecha en Neopreno Azul que brinda a tu perro la comodidad que necesita. Hecha con materiales de alta calidad como el Nylon, neopreno y el poliester. Trailla Classic Series Negro S 1.3X152CM"
+        },
+        {
+            "id": 20,
+            "name": "Kong Perro Peluche Cozie Leon Azul - Grande",
+            "marca": "KONG",
+            "price": 37000,
+            "image": "https://petlandscol.com/wp-content/uploads/2020/12/Diseno-sin-titulo-2020-12-12T180449.576-300x300.png",
+            "category": "dog",
+            "description": "Peluche para perro, elaborado en materiales restentes a las mordidas"
+        }
+
     ]
 }
