@@ -1,0 +1,112 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Alimento de pollo para perros adultos en bolsa - 2kg",
+            "marca": "Chunky",
+            "price": 11900,
+            "image": "https://lares.com.co/wp-content/uploads/2020/06/Chunky-adulto-polloEDIT.png",
+            "category": "dog",
+            "description": "Chunky Perros es un producto creado para la alimentación de perros en todas las etapas de su vida. Chunky cuenta con un portafolio completo de productos secos y húmedos que puedes mezclar para consentirlos y alimentarlos."
+        },
+        {
+            "id": 2,
+            "name": "Alimento para perros adultos mayores en bolsa - 1.5kg",
+            "marca": "Chunky",
+            "price": 22200,
+            "image": "https://petmas.masfinca.com/wp-content/uploads/2017/06/CHUNKY-ADULTOS-MAYORES.jpg",
+            "category": "dog",
+            "description": "La fórmula especial de Chunky Adultos Mayores, contiene partículas blandas que ayudan a proteger los dientes y encías de tu peludo. Su fuente principal de proteína es carne de pollo que garantiza una alta palatabilidad. Contiene DH Pack para proteger el estómago y tracto digestivo de tu perro"
+        },
+        {
+            "id": 3,
+            "name": "Alimento para perros cachorros en bolsa - 2kg",
+            "marca": "Chunky",
+            "price": 18800,
+            "image": "https://laholandapets.com/wp-content/uploads/2021/03/Chunky-cachorro.jpg",
+            "category": "dog",
+            "description": "Chunky es un producto seco para la alimentación de perros en todas las etapas de su vida. Recomendado especialmente para ser utilizado entre los 2 y 12 meses."
+        },
+        {
+            "id": 4,
+            "name": "Alimento de carne, arroz y salmon para perros adultos en bolsa - 1.5kg",
+            "marca": "Chunky",
+            "price": 19800,
+            "image": "https://www.larebajavirtual.com/images/productos/sii/F/300x300/chunky_adulto_cordero_y_salmon-118061-1571430093.png",
+            "category": "dog",
+            "description": "Chunky es un producto seco para la alimentación de perros en todas las etapas de su vida. Recomendado especialmente para ser utilizado entre los 2 y 12 meses."
+        },
+        {
+            "id": 5,
+            "name": "Dog Chow cachorros razas medianas y grandes - 4kg",
+            "marca": "Dog Chow",
+            "price": 48900,
+            "image": "https://petlandscol.com/wp-content/uploads/2020/11/Diseno-sin-titulo-87.png",
+            "category": "dog",
+            "description": "DOG CHOW CACHORROS RAZAS MEDIANAS Y GRANDES está específicamente formulado con los nutrientes e ingredientes de calidad que su cuerpo necesita para crecer sano y fuerte "
+        },
+        {
+            "id": 6,
+            "name": "Dog Chow cachorros razas mini o pequeños sin colorantes - 4kg",
+            "marca": "Dog Chow",
+            "price": 48900,
+            "image": "https://petlandscol.com/wp-content/uploads/2021/01/Diseno-sin-titulo-2021-01-12T143256.362.png",
+            "category": "dog",
+            "description": "PURINA DOG CHOW® Cachorros Minis y Pequeños nutrición con Extralife específicamente diseñada para el óptimo desarrollo de tu cachorro mini o pequeño que ayuda a mejorar su calidad de vida desde adentro hacia afuera de forma visible. "
+        },
+        {
+            "id": 7,
+            "name": "Alimento Dog Chow para perros adultos medianos y grandes - 4kg",
+            "marca": "Dog Chow",
+            "price": 48900,
+            "image": "https://petlandscol.com/wp-content/uploads/2021/01/Diseno-sin-titulo-2021-01-12T104843.857.png",
+            "category": "dog",
+            "description": "El Alimento para perro Dog Chow Salud Visible Adultos Medianos y grandes viene con EXTRALIFE, una mezcla especial con antioxidantes, vitaminas y minerales para maximimar su calidad de vida. Alimento completo para perros adultos de razas medianas y grandes de 1 a 7 años de edad."
+        },
+        {
+            "id": 8,
+            "name": "Dog Chow Longevidad Adultos 7+ Todos Los Tamaños - 4kg",
+            "marca": "Dog Chow",
+            "price": 48900,
+            "image": "https://petlandscol.com/wp-content/uploads/2021/01/Diseno-sin-titulo-2021-01-12T142204.806-300x300.png",
+            "category": "dog",
+            "description": "Dog chow longevidad adultos 7+, Ayuda a retrasar los signos de la edad, equilibra la flora intestinal. nutrición especializada que maximiza la calidad de vida de tu perro adulto de más de 7 años, rico en antioxidantes que ayuda a retrasar los signos de la edad."
+        },
+        {
+            "id": 9,
+            "name": "Agility Gold Grandes Cachorros - 1.5Kg",
+            "marca": "Agility Gold",
+            "price": 25100,
+            "image": "https://petlandscol.com/wp-content/uploads/2020/11/Diseno-sin-titulo-47-300x300.png",
+            "category": "dog",
+            "description": "Alimento super premium, formulado para el desarrollo completo de razas grandes, las cuales tienen un crecimiento lento. Tiene el balance ideal de minerales para el desarrollo de huesos fuertes. El sistema DHPACK fortalace el sistema inmunológico en esta etapa relevenate para su vida."
+        },
+        {
+            "id": 10,
+            "name": "Agility Gold Grandes Adultos - 1.5Kg",
+            "marca": "Agility Gold",
+            "price": 25150,
+            "image": "https://petlandscol.com/wp-content/uploads/2020/11/Diseno-sin-titulo-82-300x300.png",
+            "category": "dog",
+            "description": "Alimento super premium, formulado para el desarrollo completo de razas grandes, las cuales tienen un crecimiento lento, las fibras prebióticas favorecen la salud digestiva, suplementado con taurina para un adecuado funcionamiento cardíaco."
+        },
+        {
+            "id": 11,
+            "name": "Agility Gold Pequeños Cachorros - 1.5 Kg",
+            "marca": "Agility Gold",
+            "price": 27900,
+            "image": "https://petlandscol.com/wp-content/uploads/2020/11/Diseno-sin-titulo-7-300x300.png",
+            "category": "dog",
+            "description": "Alimento super premium, formulado para el desarrollo completo de razas pequeñas, las cuales tienen incrementado el catabolismo. Altamente palatable haciendo del destete una fácil conversión de alimento después de la leche materna. El sistema DHPACK fortalace el sistema inmunológico en esta etapa relevenate para su vida."
+        },
+        {
+            "id": 12,
+            "name": "Agility Gold Piel Grandes Adultos - 1.5 Kg",
+            "marca": "Agility Gold",
+            "price": 27900,
+            "image": "https://petlandscol.com/wp-content/uploads/2020/12/Diseno-sin-titulo-2-300x300.png",
+            "category": "dog",
+            "description": "Es un alimento delicioso compuesto de ingredientes como Salmón y cordero. Este alimento es altamente balanceado, de calidad y libre de granos."
+        },
+    ]
+}
