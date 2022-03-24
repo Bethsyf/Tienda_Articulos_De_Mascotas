@@ -5,6 +5,10 @@ import { showModal } from "../modules/showModal.js";
 let contenedorPerros = document.getElementById('containerdog');
 let contenedorGatos = document.getElementById('containercat');
 let contenedorOtrasMascotas = document.getElementById('containerothers');
+let contenedorModalCarrito = document.getElementById('contenedorModalCarrito');
+let botonCarrito = document.getElementById('showCarrito')
+let dataCarrito = JSON.parse(localStorage.getItem('carrito'));
+let carrito = dataCarrito !== null ? dataCarrito : [] ;
 
 document.addEventListener('DOMContentLoaded', async () => {
     let res = await fetch('http://localhost:4000/products');
