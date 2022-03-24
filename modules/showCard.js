@@ -8,7 +8,7 @@ export const showCards = (data, container) => {
             <img src="${image}" class=card-img-top w-50 d-block m-auto"
                 alt="...">
             <div class="card-body">
-                <a id=${id} class="btn-outline-primary d-block m-auto">${name}</a>
+            <a id=${id} data-bs-toggle="modal" data-bs-target="#exampleModal" class="btn btn-outline-primary d-block m-auto">${name}</a>
             </div>
         </div>    
         `

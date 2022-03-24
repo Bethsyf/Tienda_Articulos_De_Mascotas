@@ -1,5 +1,5 @@
 export const showModal = async (idCard, container) => {
-    let res = await fetch(`http://localhost:4000/paletas/${idCard}`);
+    let res = await fetch(`http://localhost:4000/products/${idCard}`);
     let data = await res.json();
 
 
