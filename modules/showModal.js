@@ -20,7 +20,7 @@ export const showModal = async (idCard, container) => {
    <div class='col-md-8'>
        <div class="modal-body my-3 mx-2">
 
-           <h3>${price}</h3>
+           <h3>$${price}</h3>
            <p>${description}</p>
            <center>
                <button id=${id} class='btn mt-5 btn-outline-primary carrito'>agregar al carrito</button>
