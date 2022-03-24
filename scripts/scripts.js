@@ -1,4 +1,6 @@
+import { showDataCarrito } from "../modules/carrito.js";
 import { showCards } from "../modules/showCard.js";
+import { showModal } from "../modules/showModal.js";
 
 let contenedorPerros = document.getElementById('containerdog');
 let contenedorGatos = document.getElementById('containercat');
@@ -15,4 +17,58 @@ document.addEventListener('DOMContentLoaded', async () => {
     showCards(productosPerro, contenedorPerros);
     showCards(productosGato, contenedorGatos);
     showCards(productosOtrasMascotas, contenedorOtrasMascotas);
+})
+
+document.addEventListener('click', (e) => {
+    if (e.target.classList.contains('btn-outline-primary')) {
+        let id = e.target.id;
+        showModal(id, contenedorModal);
+    }
+})
+
+document.addEventListener('click', (e) => {
+    if (e.target.classList.contains('carrito')) {
+        let id = e.target.id;
+        let producto = JSON.parse(localStorage.getItem('producto'));
+
+
+        if (carrito.length === 0) {
+           producto.units = 1
+            carrito.push(producto);
+            alert("Producto agregado de forma exitosa");
+        } else {
+            
+            let prueba = carrito.find(item => item.id == id);
+
+            if(prueba === undefined){
+                producto.units = 1
+                carrito.push(producto);
+                alert("Producto agregado de forma exitosa");
+            } else {
+                alert("el producto ya se encuentra en el carrito")
+            }
+        }
+
+        localStorage.setItem('carrito', JSON.stringify(carrito))
+    }
+})
+
+botonCarrito.addEventListener('click', () => {
+    let data = JSON.parse(localStorage.getItem('carrito'));
+    showDataCarrito(data, contenedorModalCarrito)
+})
+
+
+document.addEventListener('click', (e) => {
+    if(e.target.classList.contains('sumar')){
+        carrito[e.target.id].units++;
+        showDataCarrito(carrito, contenedorModalCarrito)
+    }
+})
+
+document.addEventListener('click', (e) => {
+    if(e.target.classList.contains('restar')){
+        carrito[e.target.id].units--;
+        showDataCarrito(carrito, contenedorModalCarrito)
+    }
 })

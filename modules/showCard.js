@@ -4,7 +4,7 @@ export const showCards = (data, container) => {
         let {id, image, name} = card;
         container.innerHTML += `
         
-        <div class="card d-inline-block m-2" style="width: 11rem;">
+        <div class="card d-inline-block m-3" style="width: 12rem;">
             <img src="${image}" class=card-img-top w-50 d-block m-auto"
                 alt="...">
             <div class="card-body">
