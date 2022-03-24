@@ -179,7 +179,78 @@
             "image": "https://petlandscol.com/wp-content/uploads/2020/12/Diseno-sin-titulo-2020-12-12T180449.576-300x300.png",
             "category": "dog",
             "description": "Peluche para perro, elaborado en materiales restentes a las mordidas"
+        },
+        {
+            "id": 21,
+            "name": "Alimento Seco Para Gato Pro Plan Live Clear Chicken And Rice - 3.5 Lb",
+            "marca": "Pro Plan",
+            "price": 56000,
+            "image": "https://petlandscol.com/wp-content/uploads/2021/12/Diseno-sin-titulo-2021-12-11T151955.474-300x300.png",
+            "category": "cat",
+            "description": "Alimento completo y balanceado para gatos adultos de 1 a 7 años. Reduce significativamente los alérgenos en el pelo y la caspa del gato elaborado con carne de pollo."
+        },
+        {
+            "id": 22,
+            "name": "Alimento Gatos Pro Plan Cat Vital Age Adult +7 - 3 Kg",
+            "marca": "Pro Plan",
+            "price": 56000,
+            "image": "https://petlandscol.com/wp-content/uploads/2021/01/Diseno-sin-titulo-2021-12-11T150650.742-300x300.png",
+            "category": "cat",
+            "description": "Alimento completo y balanceado para gatos de 7 o más años. Es una tecnología exclusiva, formulada con una novedosa mezcla de aminoácidos, antioxidantes naturales, vitaminas del complejo B y omega 3 y 6, para ayudar a proteger y mantener la actividad cerebral y retrasar los signos del envejecimiento de tu gato."
+        },
+        {
+            "id": 23,
+            "name": "Alimento Gatos PRO PLAN Cat Sensitive X 3 kg",
+            "marca": "Pro Plan",
+            "price": 56000,
+            "image": "https://petlandscol.com/wp-content/uploads/2021/01/Diseno-sin-titulo-2021-12-11T151108.606-300x300.png",
+            "category": "cat",
+            "description": "Purina Pro Plan Sensitive con Optiderma es un alimento para gatos adultos con sensibilidad alimentaria. Esta sensibilidad se puede ver reflejada como trasntornos en la piel, el pelo o el sistema digestivo. Es una comida para gatos de Proplan que se elabora con carne fresca de salmón para disminuir la probabilidad de activar alguna sensibilidad. Su objetivo es mantener saludables las áreas que podrían ser afectadas por las alergías causadas por alimentos. "
+        },
+        {
+            "id": 24,
+            "name": "Alimento Gatos PRO PLAN Cat Sensitive X 3 kg",
+            "marca": "Pro Plan",
+            "price": 56000,
+            "image": "https://petlandscol.com/wp-content/uploads/2021/01/Diseno-sin-titulo-2021-12-11T151342.097-300x300.png",
+            "category": "cat",
+            "description": "Purina Pro Plan Sensitive con Optiderma es un alimento para gatos adultos con sensibilidad alimentaria. Esta sensibilidad se puede ver reflejada como trasntornos en la piel, el pelo o el sistema digestivo. Es una comida para gatos de Proplan que se elabora con carne fresca de salmón para disminuir la probabilidad de activar alguna sensibilidad. Su objetivo es mantener saludables las áreas que podrían ser afectadas por las alergías causadas por alimentos. "
+        },
+        {
+            "id": 25,
+            "name": "Alimento Gatos PRO PLAN Cat Urinary X 3 kg",
+            "marca": "Pro Plan",
+            "price": 56000,
+            "image": "https://petlandscol.com/wp-content/uploads/2020/12/3-6-300x300.png",
+            "category": "cat",
+            "description": "Alimento completo y balanceado para gatos adultos. Es una tecnología exclusiva, que incluye una combinación de nutrientes que ayuda a prevenir la formación de cristales de estruvita y de oxalato, manteniendo y protegiendo la salud del tracto urinario inferior de los gatos adultos. "
+        },
+        {
+            "id": 26,
+            "name": "Alimento Gatos Monello Cat Castrados x 1 Kg.",
+            "marca": "Monello",
+            "price": 15800,
+            "image": "https://petlandscol.com/wp-content/uploads/2020/12/1-2-300x300.png",
+            "category": "cat",
+            "description": "Es el alimento perfecto para gatos adultos castrados que necesitan una comida premium especial la cual  supla todas sus necesidades. Al momento de castrar a un gato disminuye la emisión de energía, aumentando el peso en el mismo, por esto Monello Cat Castrados, controla su energía y lo mantiene saludable controlando su peso."
+        },
+        {
+            "id": 27,
+            "name": "Alimento Gatos Monello Cat Gatitos x 1 Kg.",
+            "marca": "Monello",
+            "price": 15800,
+            "image": "https://petlandscol.com/wp-content/uploads/2020/12/2-4-300x300.png",
+            "category": "cat",
+            "description": "Monello Gatitos PREMIUM ESPECIAL contiene leche en su formulación, además de tener 0% de colorantes y saborizantes artificiales. Es un alimento con alta digestibilidad y contiene taurina que opera en la salud de la visión y el corazón. También tiene ingredientes que ayudan a prevenir los cálculos urinarios."
+        },
+        {
+            "id": 27,
+            "name": "Alimento Gatos Monello Cat Gatitos x 1 Kg.",
+            "marca": "Monello",
+            "price": 15800,
+            "image": "https://petlandscol.com/wp-content/uploads/2020/12/2-4-300x300.png",
+            "category": "cat",
+            "description": "Monello Gatitos PREMIUM ESPECIAL contiene leche en su formulación, además de tener 0% de colorantes y saborizantes artificiales. Es un alimento con alta digestibilidad y contiene taurina que opera en la salud de la visión y el corazón. También tiene ingredientes que ayudan a prevenir los cálculos urinarios."
         }
-
     ]
 }
